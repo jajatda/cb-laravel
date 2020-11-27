@@ -1,3 +1,5 @@
+Project used in my blog post: https://imagdic.me/post/deploying-laravel-application-to-vercel
+
 ## Installation
 
 ```bash
